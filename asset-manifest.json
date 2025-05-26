@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/markirovka2/static/css/main.606df43f.css",
-    "main.js": "/markirovka2/static/js/main.b3410d84.js",
+    "main.js": "/markirovka2/static/js/main.9127f716.js",
     "static/js/977.597676eb.chunk.js": "/markirovka2/static/js/977.597676eb.chunk.js",
     "static/js/455.c2576f48.chunk.js": "/markirovka2/static/js/455.c2576f48.chunk.js",
     "static/js/453.40716dba.chunk.js": "/markirovka2/static/js/453.40716dba.chunk.js",
     "index.html": "/markirovka2/index.html",
     "main.606df43f.css.map": "/markirovka2/static/css/main.606df43f.css.map",
-    "main.b3410d84.js.map": "/markirovka2/static/js/main.b3410d84.js.map",
+    "main.9127f716.js.map": "/markirovka2/static/js/main.9127f716.js.map",
     "977.597676eb.chunk.js.map": "/markirovka2/static/js/977.597676eb.chunk.js.map",
     "455.c2576f48.chunk.js.map": "/markirovka2/static/js/455.c2576f48.chunk.js.map",
     "453.40716dba.chunk.js.map": "/markirovka2/static/js/453.40716dba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.606df43f.css",
-    "static/js/main.b3410d84.js"
+    "static/js/main.9127f716.js"
   ]
 }
